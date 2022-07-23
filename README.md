@@ -67,7 +67,7 @@ SMOTEEN is the method of using both oversampling and undersampling to predit a r
 ### Balanced Random Forest Classifier Model
 This method creates two trees of the same size and equal to the minority class to represent one from each class.
 
-- Balanced Accuracy Score was x%.
+- Balanced Accuracy Score was 73.9%.
 - High Risk Precision rate was 2% while the recall/sensitivity was 59% resulting in an F1 score of 5%.
 - Low Risk Precision rate was 100% while the recall/sensitivity was 89% resulting in an F1 score of 94%.
 
