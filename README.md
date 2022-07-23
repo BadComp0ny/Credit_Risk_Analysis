@@ -5,6 +5,7 @@ The purpose of this review was to utilized supervised machine learning in an eff
 
 ## Analysis
 Initial review showed that the data set was in excess of 115K loan applications.  The loan applications were narrowed down by focusing only on parameters deemed to constitute high and low risk loans.  This resulted in narrowing the data down to 68,817 loans as pictured below.
+
 ![Image1](/Images/val_count.jpg)
 
 The data was then split into test and training data utilizing the train_test_split method.
